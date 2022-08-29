@@ -11,7 +11,10 @@ export const attributes = {
     social: {
       facebook: { link: 'https://facebook.com', show: true },
       instagram: { link: 'https://instagram.com', show: true },
-      linkedin: { link: 'https://linkedin.com', show: true },
+      linkedin: {
+        link: 'https://www.linkedin.com/in/oma-ikwueme-02973583/',
+        show: true,
+      },
     },
     typed: [
       { text: 'fast and secure websites.' },
